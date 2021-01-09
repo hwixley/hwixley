@@ -5,7 +5,7 @@
 - 📫 How to reach me: hwixley1@gmail.com
 - ⚡ Fun fact:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8&exclude_repo=hwixley,University-Work,PI-cwk3,ADS-exam-notes,ILP-cwk2-report)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8&hide=makefile,c++,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 [<img align="left" alt="hwixley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
