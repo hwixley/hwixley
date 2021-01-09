@@ -11,6 +11,7 @@
 <em>***These stats do not include my private repositories which include alot of Python, Java, Swift, and C**</em>
 <br>
 
-### Connect with me: [<img width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-2.png" />][linkedin]
+### Connect with me:
+[<img align="left" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-2.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/harry-wixley/
