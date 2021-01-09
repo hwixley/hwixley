@@ -8,11 +8,11 @@
 #### *To see descriptions of my past and present university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository
 <br>
 
-###Languages:<br>
+### Languages:<br>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="26px">
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="26px">
 <img src="https://img.icons8.com/fluent/48/000000/swift.png" width="26px">
-<img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" width="26px">
+<img src="https://img.icons8.com/color/64/000000/javascript.png" width="26px">
 <img src="https://img.icons8.com/fluent/48/000000/matlab.png" width="26px">
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="26px">
 <img src="https://img.icons8.com/color/48/000000/haskell.png" width="26px">
