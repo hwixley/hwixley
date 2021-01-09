@@ -2,7 +2,6 @@
 
 - 🔭 I am currently working on GetSkooled Ltd. an iOS tutoring app alongside my university work
 - 🌱 At university I am currently learning about computer communications, networks and computer security
-- 📫 How to reach me: hwixley1@gmail.com
 
 <br>
 
