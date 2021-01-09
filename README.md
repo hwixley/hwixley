@@ -10,8 +10,7 @@
 
 ### Languages and tools:
 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="26px">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="26px">
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="26px"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="26px">
 <img src="https://img.icons8.com/fluent/48/000000/swift.png" width="26px">
 <img src="https://img.icons8.com/color/64/000000/javascript.png" width="26px">
 <img src="https://img.icons8.com/fluent/48/000000/matlab.png" width="26px">
