@@ -7,7 +7,8 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-***These stats do not include my private repositories which include alot more Python, Swift, and C
+<br/>
+<em>***These stats do not include my private repositories which include alot more Python, Swift, and C**</em>
 
 
 #### Connect with me:
