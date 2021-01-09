@@ -2,10 +2,10 @@
 
 - 🔭 I am currently working on GetSkooled Ltd. an iOS tutoring app alongside my university work
 - 🌱 At university I am currently learning about:
-  - Computer communications and networks<sup>
-    - TCP/IP architecture and protocols
-    - The Internet
-    - Application layers, transport layers, network layers, data link layers, medium access control sub-layers
+  - Computer communications and networks
+    - <sup>TCP/IP architecture and protocols</sup>
+    - <sup>The Internet</sup>
+    - <sup>Application layers, transport layers, network layers, data link layers, medium access control sub-layers</sup>
     - SDNs
     - Multimedia networking</sup>
   - Computer security
