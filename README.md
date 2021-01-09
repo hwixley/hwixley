@@ -18,7 +18,8 @@
 <img src="https://img.icons8.com/color/48/000000/haskell.png" width="26px">
 <img src="https://img.icons8.com/metro/26/000000/sql.png" width="26px">
 <img src="https://img.icons8.com/material-sharp/24/000000/github.png" width="26px">
-<img src="https://img.icons8.com/officel/24/000000/console.png" width="26px">
+<img src="https://img.icons8.com/ios-filled/48/000000/console.png" width="26px">
+<img src="https://img.icons8.com/color/48/000000/linux.png" width="26px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
