@@ -1,9 +1,22 @@
 ## Hello there!
 
 - 🔭 I am currently working on GetSkooled Ltd. an iOS tutoring app alongside my university work
-- 🌱 At university I am currently learning about: computer communications and networks (TCP/IP architecture and protocols, the Internet, application layers, transport layers, network layers, data link layers, medium access control sub-layers, SDNs, multimedia networking), and computer security (cryptography, firewalls, network protocol and architecture vulnerabilities, secure communications, OS security, web security)
+- 🌱 At university I am currently learning about: 
+      - Computer communications and networks
+              -TCP/IP architecture and protocols
+              -The Internet
+              -Application layers, transport layers, network layers, data link layers, medium access control sub-layers
+              -SDNs
+              -Multimedia networking
+      - Computer security
+              -Cryptography
+              -Firewalls
+              -Network protocol and architecture vulnerabilities
+              -Secure communications
+              -OS security
+              -Web security)
 
-#### *To see descriptions of my university courses alongside any linked coursework repositories (where possible) please see the pinned 'University-Work' repo below
+#### *To see descriptions of my past and present university courses alongside any linked coursework repositories (where possible) please see the <em>pinned</em> 'University-Work' repository below
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
