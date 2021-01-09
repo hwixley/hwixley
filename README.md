@@ -8,6 +8,8 @@
 #### *To see descriptions of my past and present university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository
 <br>
 
+![Harry's github stats](https://github-readme-stats.vercel.app/api?username=hwixley&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <em>***These stats do not include my private repositories which include alot of Python, Java, Swift, and C**</em>
