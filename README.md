@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
-[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/384px-Linkedin_icon.svg.png" />][linkedin]
+[<img align="left" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" />][linkedin]
 
 <br>
 
