@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+
+###Connect with me:
+[<img align="left" alt ="hwixley | LinkedIn" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://uk.linkedin.com/in/harry-wixley-b2933a1a5]
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,6 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-###Connect with me:
-[<img align="left" alt ="hwixley | LinkedIn" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://uk.linkedin.com/in/harry-wixley-b2933a1a5]
