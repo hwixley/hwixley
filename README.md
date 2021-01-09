@@ -1,6 +1,6 @@
 ## Hello there!
 
-- 🔭 I am currently working on GetSkooled Ltd. an iOS tutoring app alongside my university work
+- 🔭 I am currently working on GetSkooled Ltd an iOS tutoring app alongside my university work
 - 🌱 At university I am currently learning about:
   - Computer communications and networks; <em>TCP/IP architecture and protocols, the Internet, application layers, transport layers, network layers, data link layers, medium access control sub-layers, SDNs, multimedia networking</em>
   - Computer security; <em>cryptography, firewalls, network protocol and architecture vulnerabilities, secure communications, OS security, web security</em>
