@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Connect with me:
-[<img align="left" alt="hwixley | LinkedIn" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="hwixley | LinkedIn" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/harry-wixley-b2933a1a5/]
 
 
 - 🔭 I’m currently working on ...
