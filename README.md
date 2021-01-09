@@ -8,7 +8,8 @@
 #### *To see descriptions of my past and present university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository
 <br>
 
-### Languages and tools:<br>
+### Languages and tools:
+
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="26px">
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="26px">
 <img src="https://img.icons8.com/fluent/48/000000/swift.png" width="26px">
