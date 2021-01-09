@@ -18,7 +18,7 @@
 <img src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png" alt="SQL" width="26px">
 <img src="https://img.icons8.com/nolan/64/github.png" alt="Git" width="26px">
 <img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux width="26px">
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="26px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
