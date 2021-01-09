@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 ###Connect with me:
-[<img align="left" alt ="hwixley | LinkedIn" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://uk.linkedin.com/in/harry-wixley-b2933a1a5]
+[<img align="left" alt ="hwixley | LinkedIn" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 
 - 🔭 I’m currently working on ...
@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+[linkedin] : https://www.linkedin.com/in/harry-wixley-b2933a1a5/
