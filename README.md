@@ -26,6 +26,6 @@
 <br>
 
 ### Connect with me:
-[<img align="left" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-2.png" />][linkedin]
+[<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/harry-wixley/
