@@ -4,7 +4,7 @@
 - 🌱 At university I am currently learning about:
   - Computer communications and networks; <em>TCP/IP architecture and protocols, the Internet, application layers, transport layers, network layers, data link layers, medium access control sub-layers, SDNs, multimedia networking</em>
   - Computer security; <em>cryptography, firewalls, network protocol and architecture vulnerabilities, secure communications, OS security, web security</em>
-  - Robotics system design project; <em>building an integrated hardware and software system that solves a commercial problem<em>
+  - Robotics system design; <em>tasked to build an integrated hardware and software system that solves a commercial problem<em>
 
 #### *To see descriptions of my past and present university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br>
 
