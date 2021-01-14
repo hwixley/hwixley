@@ -32,7 +32,7 @@
 [linkedin]: https://www.linkedin.com/in/harry-wixley/
 
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hwixley/count.svg" />
 </p>
