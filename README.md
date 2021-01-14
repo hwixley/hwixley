@@ -26,8 +26,6 @@
 <em>***These stats do not include my private repositories which include alot of Python, Java, Swift, and C**</em>
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwixley&show_icons=true&theme=tokyonight)
-
 ### Connect with me:
 [<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 
