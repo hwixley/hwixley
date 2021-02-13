@@ -2,7 +2,8 @@
 
 - 🔭 I am currently working on GetSkooled Ltd an iOS tutoring app alongside my university work. This app is currently in Beta Testing so if you are interested to be a part of it or if you just want to see the app, contact me!
 - 🌱 At university I am currently learning about:
-  - Computer communications and networks; <em>TCP/IP architecture and protocols, the Internet, application layers, transport layers, network layers, data link layers, medium access control sub-layers, SDNs, multimedia networking</em>
+  - Automated reasoning; <em>first order logic, higher order logic, unification, rewriting, natural deduction, theorem representation and proving with Isabelle/HOL, formalised mathematics<em>
+  - Software testing; <em>unit testing, functional testing, combinatorial testing, finite models, structural testing, data flow models and testing,  test selection and adequacy, mutation testing, test driven development, regression testing, security testing, integration and component based testing, system and acceptance testing, concurrency testing<em>
   - Computer security; <em>cryptography, firewalls, network protocol and architecture vulnerabilities, secure communications, OS security, web security</em>
   - Robotics system design; <em>tasked to build an integrated hardware and software system that solves a commercial problem<em>
 
