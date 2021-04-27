@@ -21,7 +21,7 @@
 <img src="https://img.icons8.com/nolan/64/github.png" alt="Git" width="26px">
 <img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="26px">
-<img src="https://miro.medium.com/max/800/1*lsbkF4ybE4jDj2eOsqgeSg.png" alt="ROS" width="26px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" alt="ROS" width="26px">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
