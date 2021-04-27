@@ -21,7 +21,7 @@
 <img src="https://img.icons8.com/nolan/64/github.png" alt="Git" width="26px">
 <img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="26px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" alt="ROS" width="23px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" alt="ROS" width="20px">
 <img src="https://isabelle.in.tum.de/img/isabelle.png" alt="Isabelle" width="26px">
 <img src="https://www.codex.academy/img/tech-logos/firebase.png" alt="Firebase" width="26px">
 
