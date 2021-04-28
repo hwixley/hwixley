@@ -17,13 +17,15 @@
 <img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="Matlab" width="26px">
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="26px">
 <img src="https://img.icons8.com/color/48/000000/haskell.png" alt="Haskell" width="26px">
-<img src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png" alt="SQL" width="26px">
+<img src="https://s.pngix.com/pngfile/s/109-1097607_sql-png-logo-sql-programming-language-logo-transparent.png" alt="SQL" width="26px">
 <img src="https://img.icons8.com/nolan/64/github.png" alt="Git" width="26px">
 <img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="26px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" alt="ROS" width="20px">
 <img src="https://isabelle.in.tum.de/img/isabelle.png" alt="Isabelle" width="26px">
 <img src="https://www.codex.academy/img/tech-logos/firebase.png" alt="Firebase" width="26px">
+https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
