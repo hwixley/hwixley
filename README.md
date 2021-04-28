@@ -18,13 +18,14 @@
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="26px">
 <img src="https://img.icons8.com/color/48/000000/haskell.png" alt="Haskell" width="26px">
 <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195568/sql-64a6e0f07773cf17581e76ca09e17dbc.png" alt="SQL" width="26px">
-<img src="https://img.icons8.com/nolan/64/github.png" alt="Git" width="26px">
+<img src="https://img.favpng.com/9/24/22/github-computer-icons-logo-png-favpng-N47TpAbDhpdesHinVrtW72THz.jpg" alt="Git" width="26px">
 <img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="26px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" alt="ROS" width="20px">
 <img src="https://isabelle.in.tum.de/img/isabelle.png" alt="Isabelle" width="26px">
 <img src="https://www.codex.academy/img/tech-logos/firebase.png" alt="Firebase" width="26px">
-
+https://img.favpng.com/9/24/22/github-computer-icons-logo-png-favpng-N47TpAbDhpdesHinVrtW72THz.jpg
+https://img.icons8.com/nolan/64/github.png
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
