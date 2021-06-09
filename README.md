@@ -25,7 +25,7 @@
 <img src="https://isabelle.in.tum.de/img/isabelle.png" alt="Isabelle" width="26px">
 <img src="https://www.codex.academy/img/tech-logos/firebase.png" alt="Firebase" width="26px">
 <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="Junit" width="26px">
-<img src="https://www.designbust.com/download/240/png/php_icon512.png" alt="PHP" width="26px">
+<img src="https://lh3.googleusercontent.com/proxy/ReITz7krCgMI6Aixra6ODgYogGyKEyC4ZU28NJ1zxabTtU06JeJBPN_Q1fCq0crvVnHTZx07GQli3zODwZdSEuZAL6wQB6FNrTtlgvesNyo0XD1RQqObH3ibvXAyx3O6U2cjIAqmKJx5Hsw5" alt="PHP" width="26px">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
