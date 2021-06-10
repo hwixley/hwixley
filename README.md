@@ -28,7 +28,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/php-3629567-3032350.png" alt="PHP" width="30px">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <em>***These stats do not include my private repositories which include alot of Python, Java, Swift, and C**</em>
 <br>
