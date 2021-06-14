@@ -40,4 +40,4 @@
 <br>
 
 ### My GitHub work accounts:
-<ins>Internship as a Web Developer at freetobook:</ins> <a href="https://github.com/hwixley-freetobook">@hwixley-freetobook</a>
+Internship as a Web Developer at freetobook: <a href="https://github.com/hwixley-freetobook">@hwixley-freetobook</a>
