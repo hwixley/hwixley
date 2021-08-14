@@ -27,7 +27,7 @@
 <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="Junit" width="26px">
 <img src="https://cdn.iconscout.com/icon/free/png-256/php-3629567-3032350.png" alt="PHP" width="30px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="26px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="26px"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="26px">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
