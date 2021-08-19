@@ -44,4 +44,4 @@
 <br>
 
 ### My GitHub work accounts:
-Internship as a Full Stack Web Developer at freetobook: <a href="https://github.com/hwixley-freetobook">@hwixley-freetobook</a>
+Internship as a Full Stack Developer at freetobook: <a href="https://github.com/hwixley-freetobook">@hwixley-freetobook</a>
