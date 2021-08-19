@@ -2,10 +2,10 @@
 
 - 🔭 I am currently working on GetSkooled Ltd an iOS tutoring app alongside my university work. This app is currently in Beta Testing so if you are interested to be a part of it or if you just want to see the app, contact me!
 - 🌱 At university I am currently learning about:
-  - Automated reasoning; <em>first order logic, higher order logic, unification, rewriting, natural deduction, theorem representation and proving with Isabelle/HOL, formalised mathematics</em>
-  - Software testing; <em>unit testing, functional testing, combinatorial testing, finite models, structural testing, data flow models and testing,  test selection and adequacy, mutation testing, test driven development, regression testing, security testing, integration and component based testing, system and acceptance testing, concurrency testing</em>
-  - Computer security; <em>cryptography, firewalls, network protocol and architecture vulnerabilities, secure communications, OS security, web security</em>
-  - Robotics system design; <em>tasked to build an integrated hardware and software system that solves a commercial problem. DR.PHIL (Disinfecting Robot Prioritising High Interaction Locations) is an autonomous robot which can navigate a single floor, and disinfect door handles. [Our website](https://group13.sdp.inf.ed.ac.uk/index.html) and [our app!](https://testflight.apple.com/join/u0xfjzlP) This product was awarded 3rd place and the Robotical prize.</em>
+  - Honours Project; <em>creating smart wearable sensors with neuromorphic processing for fall detection</em>
+  - Machine Learning Practical; <em>focused on the design, implementation, training, and evaluation of machine learning systems</em>
+  - Blockchains and Distributed Ledgers; <em>an introduction to blockchain systems and distributed ledgers, the relevant cryptographic tools and smart contracts programming</em>
+  - Natural Computing; <em>learning about bio-inspired algorithms for optimisation and search problems</em>
 
 #### *To see descriptions of my past and present university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br>
 
