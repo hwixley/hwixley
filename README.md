@@ -6,6 +6,7 @@
   - Machine Learning Practical; <em>focused on the design, implementation, training, and evaluation of machine learning systems</em>
   - Blockchains and Distributed Ledgers; <em>an introduction to blockchain systems and distributed ledgers, the relevant cryptographic tools and smart contracts programming</em>
   - Natural Computing; <em>learning about bio-inspired algorithms for optimisation and search problems</em>
+  - Bioinformatics; <em>learning how to develop and implement novel methodologies and tools for analysing and learning from biological data</em>
 
 #### *To see descriptions of my past and present university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br>
 
