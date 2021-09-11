@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-<em>***These stats do not include my private repositories which include alot of Python, Java, Swift, and C**</em>
+<em>***These stats do not include my private repositories which include alot of Python, Java, and Swift*</em>
 <br>
 
 ### Connect with me:
