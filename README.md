@@ -31,12 +31,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="26px">
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" width="26px">
 
+![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<em>***These stats do not include my private repositories which include alot more Python, Java, and Swift*</em>
-<br>
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
