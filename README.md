@@ -32,10 +32,7 @@
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" width="26px">
 
 ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg)
-
-
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
-
+![](https://github.com/hwixley/github-stats/blob/master/generated/languages.svg)
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
