@@ -4,7 +4,7 @@
 - 🌱 At university I am currently learning about:
   - Honours Project; <em>creating smart wearable sensors with neuromorphic processing for fall detection</em>
   - Machine Learning Practical; <em>focused on the design, implementation, training, and evaluation of machine learning systems</em>
-  - Machine Learning and Pattern Recognition; <em></em>
+  - Machine Learning and Pattern Recognition; <em>fundamental theoretical concepts in machine learning, and common patterns for implementing methods in practice</em>
   - Bioinformatics; <em>learning how to develop and implement novel methodologies and tools for analysing and learning from biological data</em>
 
 #### *To see descriptions of my past and present university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br>
