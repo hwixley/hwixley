@@ -29,7 +29,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="26px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="26px">
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" width="26px">
-<img src="https://biopython.org/assets/images/biopython_logo_white.png" alt="Biopython" width="26px">
+<img src="https://biopython.org/assets/images/biopython_logo_white.png" alt="Biopython" width="30px">
 
 
 ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg)
