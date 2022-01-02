@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working on GetSkooled Ltd an iOS tutoring app alongside my university work. This app is currently in Beta Testing so if you are interested to be a part of it or if you just want to see the app, contact me!
 - 🌱 At university I am currently learning about:
-  - Honours Project; <em>creating smart wearable sensors with neuromorphic processing for fall detection</em>
+  - Honours Project; <em>developing an iOS app with smart wearable sensors for fall detection</em>
   - Machine Learning Practical; <em>focused on the design, implementation, training, and evaluation of machine learning systems</em>
   - Machine Learning and Pattern Recognition; <em>fundamental theoretical concepts in machine learning, and common patterns for implementing methods in practice</em>
   - Bioinformatics; <em>learning how to develop and implement novel methodologies and tools for analysing and learning from biological data</em>
