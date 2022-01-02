@@ -30,6 +30,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="26px">
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" width="26px">
 <img src="https://biopython.org/assets/images/biopython_logo_white.png" alt="Biopython" height="26px">
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="Pytorch" width="26px">
+<img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" alt="Tensorflow" width="26px">
+<img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.18.0/1637001306874/Microsoft.VisualStudio.Services.Icons.Default" alt="Docker" width="26px">
+
 
 
 ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg)
