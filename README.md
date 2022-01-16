@@ -32,7 +32,8 @@
 <img src="https://biopython.org/assets/images/biopython_logo_white.png" alt="Biopython" height="26px">
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="Pytorch" width="26px">
 <img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" alt="Tensorflow" width="26px">
-<img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.18.0/1637001306874/Microsoft.VisualStudio.Services.Icons.Default" alt="Docker" width="26px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="NodeJS" width="26px">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="26px">
 
 
 
