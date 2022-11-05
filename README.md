@@ -43,7 +43,3 @@
 [<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/harry-wixley/
-<br>
-
-### My GitHub work accounts:
-Internship as a Full Stack Developer at freetobook: <a href="https://github.com/hwixley-freetobook">@hwixley-freetobook</a>
