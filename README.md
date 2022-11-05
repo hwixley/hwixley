@@ -1,11 +1,9 @@
 ## Hello there!
 
-- 🔭 I am currently working on GetSkooled Ltd an iOS tutoring app alongside my university work. This app is currently in Beta Testing so if you are interested to be a part of it or if you just want to see the app, contact me!
-- 🌱 At university I am currently learning about:
-  - Honours Project; <em>developing an iOS app with smart wearable sensors for fall detection</em>
-  - Machine Learning Practical; <em>focused on the design, implementation, training, and evaluation of machine learning systems</em>
-  - Machine Learning and Pattern Recognition; <em>fundamental theoretical concepts in machine learning, and common patterns for implementing methods in practice</em>
-  - Bioinformatics; <em>learning how to develop and implement novel methodologies and tools for analysing and learning from biological data</em>
+- 🌱 I am currently working as an iOS engineer at Venn Apps which serves as a B2B platform for developing bespoke apps for ecommerce businesses
+- 🔭 In my spare time I am currently building a tutoring website using laravel for my company GetSkooled
+
+### My university undergraduate thesis: [Smart Application for Fall Detection Using Wearable ECG & Accelerometer Sensors](https://arxiv.org/abs/2207.00008)
 
 #### *To see descriptions of my past and present university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br>
 
