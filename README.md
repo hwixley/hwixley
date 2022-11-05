@@ -1,4 +1,5 @@
 ## Hello there!
+<hr>
 
 - 🌱 I am currently working as an iOS engineer at Venn Apps which serves as a B2B platform for developing bespoke apps for ecommerce businesses
 - 🔭 In my spare time I am currently building a tutoring website using laravel for my company GetSkooled
@@ -38,9 +39,10 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="26px">
 
 
-
 ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/hwixley/github-stats/blob/master/generated/languages.svg)
+
+<hr>
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
