@@ -1,9 +1,8 @@
 ### Hello there!
 <hr>
 
-- 🌱 I am currently working as an iOS engineer at Venn Apps which serves as a B2B platform for developing bespoke apps for ecommerce businesses
-- 🔭 In my spare time I am currently building a tutoring website using laravel for my company GetSkooled
-- 🏁 I finished my undergraduate bachelors degree with a first class July this year
+- 🌱 I am currently working as an iOS engineer at Venn Apps which serves as a B2B platform for developing bespoke apps for ecommerce businesses [Swift]
+- 🔭 In my spare time I build software for my tutoring company GetSkooled - I am currently developing the website [Laravel PHP]
 
 <hr>
 
