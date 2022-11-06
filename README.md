@@ -37,9 +37,9 @@
 <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="26px">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="26px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/hwixley/github-stats/blob/master/generated/languages.svg) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/hwixley/github-stats/blob/master/generated/languages.svg)
 
 <hr>
 
