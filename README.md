@@ -8,7 +8,7 @@
 
 #### My university undergraduate thesis: [Smart Application for Fall Detection Using Wearable ECG & Accelerometer Sensors](https://arxiv.org/abs/2207.00008)
 
-#### *To see descriptions of my past and present university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br>
+#### *To see descriptions of my university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br>
 <hr>
 
 ### Languages and tools:
