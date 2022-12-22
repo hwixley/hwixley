@@ -37,6 +37,8 @@
 <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="26px">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="26px">
 <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="Bash" width="26px">
+<img src="https://kaskade.cloud/wp-content/uploads/2020/08/aws-logo.png" alt="AWS" width="26px">
+<img src="https://w7.pngwing.com/pngs/750/733/png-transparent-logo-stripe-brand-stripes-miscellaneous-purple-blue-thumbnail.png" alt="Stripe" width="26px">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg) -->
