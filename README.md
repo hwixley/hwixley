@@ -18,6 +18,7 @@
 <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="Javascript" width="26px">
 <img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="Matlab" width="26px">
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="26px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="26px">
 <img src="https://img.icons8.com/color/48/000000/haskell.png" alt="Haskell" width="26px">
 <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195568/sql-64a6e0f07773cf17581e76ca09e17dbc.png" alt="SQL" width="26px">
 <img src="https://www.pngrepo.com/png/312259/512/github.png" alt="Git" width="26px">
