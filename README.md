@@ -24,4 +24,4 @@
 
 <hr>
 
-### Connect with me: [<img height="26px" align="bottom" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/harry-wixley/)
+#### Connect with me: [<img height="22px" align="bottom" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/harry-wixley/)
