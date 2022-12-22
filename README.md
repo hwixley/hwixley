@@ -11,9 +11,7 @@
 #### *To see descriptions of my university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br>
 <hr>
 
-### Languages:
-
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="26px"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="26px">
+### Languages: <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="26px"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="26px">
 <img src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png" alt="Swift" width="26px">
 <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="Javascript" width="26px">
 <img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="Matlab" width="26px">
@@ -25,15 +23,13 @@
 <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="Bash" width="26px">
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" width="50px"> -->
 
-### Frameworks/Libraries
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="26px"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" alt="ROS" width="20px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="26px">
+### Frameworks/Libraries: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="26px"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Robot_Operating_System_logo.svg" alt="ROS" width="20px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="26px">
 <img src="https://biopython.org/assets/images/biopython_logo_white.png" alt="Biopython" height="26px">
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="Pytorch" width="26px">
 <img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" alt="Tensorflow" width="26px">
 <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="26px">
 
-### Tools
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="26px">&nbsp;<img src="https://miro.medium.com/max/1024/0*u2Zpslk2GNmE2BNL.png" alt="SQL" height="26px">&nbsp;<img src="https://www.pngrepo.com/png/312259/512/github.png" alt="Git" width="26px"><img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
+### Tools: <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="26px">&nbsp;<img src="https://miro.medium.com/max/1024/0*u2Zpslk2GNmE2BNL.png" alt="SQL" height="26px">&nbsp;<img src="https://www.pngrepo.com/png/312259/512/github.png" alt="Git" width="26px"><img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="26px">
 <img src="https://www.codex.academy/img/tech-logos/firebase.png" alt="Firebase" width="26px">
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" width="26px">
