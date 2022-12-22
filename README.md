@@ -40,7 +40,7 @@
 <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="Bash" width="26px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="26px">
 <img src="https://cdn.iconscout.com/icon/free/png-256/stripe-2-498440.png" alt="Stripe" width="26px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" width="30px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" width="50px">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg) -->
