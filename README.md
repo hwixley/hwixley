@@ -14,7 +14,7 @@
 ### Languages and tools:
 
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="26px"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="26px">
-<img src="https://w7.pngwing.com/pngs/831/596/png-transparent-swift-apple-logo-objective-c-apple-logo-computer-programming-fruit-nut.png" alt="Swift" width="26px">
+<img src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png" alt="Swift" width="26px">
 <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="Javascript" width="26px">
 <img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="Matlab" width="26px">
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="26px">
