@@ -46,7 +46,4 @@
 
 <hr>
 
-### Connect with me:
-[<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/harry-wixley/
+### Connect with me: [<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][https://www.linkedin.com/in/harry-wixley/]
