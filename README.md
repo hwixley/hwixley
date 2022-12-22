@@ -34,8 +34,7 @@
 <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="26px">
 
 ### Tools
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="26px">
-<img src="https://www.pngrepo.com/png/312259/512/github.png" alt="Git" width="26px"><img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="26px"><img src="https://www.pngrepo.com/png/312259/512/github.png" alt="Git" width="26px"><img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="26px">
 <img src="https://www.codex.academy/img/tech-logos/firebase.png" alt="Firebase" width="26px">
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" width="26px">
