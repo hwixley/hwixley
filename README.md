@@ -20,7 +20,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="26px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="26px">
 <img src="https://img.icons8.com/color/48/000000/haskell.png" alt="Haskell" width="26px">
-<img src="https://www.clipartmax.com/png/middle/275-2753287_sql-is-a-query-language-used-to-communicate-with-databases-sql-language.png" alt="SQL" height="26px">
 <img src="https://isabelle.in.tum.de/img/isabelle.png" alt="Isabelle" width="26px">
 <img src="https://cdn.iconscout.com/icon/free/png-256/php-3629567-3032350.png" alt="PHP" width="30px">
 <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="Bash" width="26px">
@@ -34,7 +33,7 @@
 <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="NodeJS" width="26px">
 
 ### Tools
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="26px"><img src="https://www.pngrepo.com/png/312259/512/github.png" alt="Git" width="26px"><img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="26px"><img src="https://miro.medium.com/max/1024/0*u2Zpslk2GNmE2BNL.png" alt="SQL" height="26px"><img src="https://www.pngrepo.com/png/312259/512/github.png" alt="Git" width="26px"><img src="https://img.icons8.com/plasticine/64/000000/console.png" alt="Terminal" width="26px">
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="26px">
 <img src="https://www.codex.academy/img/tech-logos/firebase.png" alt="Firebase" width="26px">
 <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="Postman" width="26px">
