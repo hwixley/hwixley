@@ -9,7 +9,8 @@
 #### <ins>My university undergraduate thesis:</ins> [Smart Application for Fall Detection Using Wearable ECG & Accelerometer Sensors](https://arxiv.org/abs/2207.00008)
 
 #### *To see descriptions of my university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br>
-<hr>
+
+##
 
 #### <ins>Languages:</ins> &nbsp;<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="26px"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="26px"> <img src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png" alt="Swift" width="26px"> <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="Javascript" width="26px"> <img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="Matlab" width="26px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="26px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="26px"> <img src="https://img.icons8.com/color/48/000000/haskell.png" alt="Haskell" width="26px"> <img src="https://isabelle.in.tum.de/img/isabelle.png" alt="Isabelle" width="26px"> <img src="https://cdn.iconscout.com/icon/free/png-256/php-3629567-3032350.png" alt="PHP" width="30px"> <img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" alt="Bash" width="26px">
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" width="50px"> -->
@@ -22,6 +23,6 @@
 <!-- ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg) -->
 ![](https://github.com/hwixley/github-stats/blob/master/generated/languages.svg)
 
-<hr>
+##
 
 #### Connect with me: [<img height="22px" align="bottom" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/harry-wixley/)
