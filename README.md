@@ -25,4 +25,4 @@
 
 ##
 
-#### <ins>Connect with me:</ins> [<img height="22px" align="bottom" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/harry-wixley/) [<img height="22px" align="bottom" src="https://blog.arxiv.org/files/2021/02/arxiv-logo-1-1024x461.png" />](https://arxiv.org/search/cs?searchtype=author&query=Wixley%2C+H)
+#### <ins>Connect with me:</ins> &nbsp; [<img height="22px" align="bottom" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/harry-wixley/) [<img height="22px" align="bottom" src="https://blog.arxiv.org/files/2021/02/arxiv-logo-1-1024x461.png" />](https://arxiv.org/search/cs?searchtype=author&query=Wixley%2C+H)
