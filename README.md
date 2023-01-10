@@ -2,7 +2,7 @@
 
 - 🌱 I am currently working as an iOS engineer at Venn Apps which serves as a B2B platform for developing bespoke apps for ecommerce businesses (**Swift & Typescript**)
 - 🛠 In my spare time I build software for my tutoring company GetSkooled, of which I am currently developing the website (**Laravel & JavaScript**). Which you can visit here: [https://getskooled.co.uk](https://getskooled.co.uk)
-- 🔭 I am currently developing a custom CLI in bash to allow easy automation for daily tasks for developers including: development environment setup, git actions, and more (**Shell**). [Please check it out!](https://github.com/hwixley/wix-cli)
+- 🔭 I am currently developing a custom CLI in bash to allow easy automation for daily tasks for developers including: development environment setup, git actions, and more (**Shell**). [Check it out!](https://github.com/hwixley/wix-cli)
 
 ##
 
