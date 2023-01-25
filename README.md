@@ -23,6 +23,8 @@
 <!-- ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg) -->
 ![](https://github.com/hwixley/github-stats/blob/master/generated/languages.svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 
 #### <ins>Connect with me:</ins> &nbsp; [<img height="22px" align="bottom" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/harry-wixley/) &nbsp; [<img height="22px" align="bottom" src="https://blog.arxiv.org/files/2021/02/arxiv-logo-1-1024x461.png" />](https://arxiv.org/search/cs?searchtype=author&query=Wixley%2C+H)
