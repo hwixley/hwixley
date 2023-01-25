@@ -23,7 +23,6 @@
 <!-- ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg) -->
 ![](https://github.com/hwixley/github-stats/blob/master/generated/languages.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&hide=tex,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
