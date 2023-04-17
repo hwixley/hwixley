@@ -1,13 +1,13 @@
 ## Hello there!
 
-- 🌱 I am currently working as an iOS engineer at Venn Apps which serves as a B2B platform for developing bespoke apps for ecommerce businesses (**Swift & Typescript**)
+<!-- - 🌱 I am currently working as an iOS engineer at Venn Apps which serves as a B2B platform for developing bespoke apps for ecommerce businesses (**Swift & Typescript**)
 - 🔭 In my spare time I am currently developing a custom CLI in bash to allow easy automation for daily tasks for developers including: development environment setup, git actions, and more (**Shell**). [Check it out!](https://github.com/hwixley/wix-cli)
 
 ##
 
 #### <ins>My university undergraduate thesis:</ins> [Smart Application for Fall Detection Using Wearable ECG & Accelerometer Sensors](https://arxiv.org/abs/2207.00008)
 
-#### *To see descriptions of my university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br>
+#### *To see descriptions of my university courses alongside any linked coursework repositories (where possible) please see my <em>[University-Work](https://github.com/hwixley/University-Work)</em> repository<br> -->
 
 ##
 
