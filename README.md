@@ -1,6 +1,6 @@
 ## Hello there!
 
-- 🌱 I am currently working as an iOS engineer at Venn Apps which serves as a B2B platform for developing bespoke apps for ecommerce businesses (**Swift & Typescript**)
+- 🌱 I am currently working as an iOS engineer at Venn Apps which serves as a B2B platform for developing bespoke apps for ecommerce businesses (**Swift, Typescript, & Bash**)
 - 🔭 In my spare time I like to build OSS. I am currently developing a customisable CLI in bash to allow easy automation for daily tasks for developers including: development environment setup, git actions, and more (**Shell**). [Check it out!](https://github.com/hwixley/wix-cli)
 
 ##
