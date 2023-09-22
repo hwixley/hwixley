@@ -1,7 +1,7 @@
 ## Hello there!
 
-- 🌱 I am currently working as a Full Stack iOS engineer at Venn Apps which serves as a B2B platform for developing bespoke apps for ecommerce businesses (**Swift, Typescript, & Shell**)
-- 🔭 In my spare time I like to build OSS. I am currently developing a customisable CLI in bash to allow easy automation for daily tasks for developers including: development environment setup, git actions, and more (**Shell**). [Check it out!](https://github.com/hwixley/wix-cli)
+- 🌱 I am currently working as a Technical Consultant at Daintta. Daintta specialises in cybersecurity, AI data intelligence, and communications security in the National Security, Law Enforcement, Telecommunications, and Health & Care sectors.
+- 🔭 In my spare time I like to build FOSS. I am currently developing a customisable CLI in bash to allow easy automation for daily tasks for developers including: development environment setup, git actions, and more (**Shell**). [Check it out!](https://github.com/hwixley/wix-cli)
 
 ##
 
