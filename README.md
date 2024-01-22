@@ -1,6 +1,6 @@
 ## Hello there!
 
-- 🌱 I am currently working as a Technical Consultant at Daintta. Daintta specialises in cybersecurity, AI data intelligence, and communications security in the National Security, Law Enforcement, Telecommunications, and Health & Care sectors.
+- 🌱 I am currently working as a Technical Consultant at Daintta. Daintta specialises in cybersecurity, AI data intelligence, and communications security.
 - 🔭 In my spare time I like to build FOSS. I am currently developing a customisable CLI in bash to allow easy automation for daily tasks for developers including: development environment setup, git actions, and more (**Shell**). [Check it out!](https://github.com/hwixley/wix-cli)
 
 ##
