@@ -24,3 +24,7 @@
 <!-- ##
 #### <ins>Connect with me:</ins> &nbsp; [<img height="22px" align="bottom" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/harry-wixley/) &nbsp; [<img height="22px" align="bottom" src="https://blog.arxiv.org/files/2021/02/arxiv-logo-1-1024x461.png" />](https://arxiv.org/search/cs?searchtype=author&query=Wixley%2C+H)
  -->
+
+## Certifications
+
+<a href="https://images.credly.com/size/220x220/images/a9b02635-e18f-4eff-a5da-1b3524555651/image.png"><img src="https://images.credly.com/size/220x220/images/a9b02635-e18f-4eff-a5da-1b3524555651/image.png" style="width: 100px"></a>
