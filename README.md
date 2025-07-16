@@ -22,8 +22,10 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwixley&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![](https://github.com/hwixley/github-stats/blob/master/generated/overview.svg) -->
 
-| ![](https://github.com/hwixley/github-stats/blob/master/generated/languages-filecount.svg) | ![](https://github.com/hwixley/github-stats/blob/master/generated/languages-filesize.svg) |
-|--------|---------|
+<div class="">
+ <img src="https://github.com/hwixley/github-stats/blob/master/generated/languages-filecount.svg">
+ <img src="https://github.com/hwixley/github-stats/blob/master/generated/languages-filesize.svg">
+</div> 
 <!-- ##
 #### <ins>Connect with me:</ins> &nbsp; [<img height="22px" align="bottom" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/harry-wixley/) &nbsp; [<img height="22px" align="bottom" src="https://blog.arxiv.org/files/2021/02/arxiv-logo-1-1024x461.png" />](https://arxiv.org/search/cs?searchtype=author&query=Wixley%2C+H)
  -->
