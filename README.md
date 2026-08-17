@@ -1,5 +1,7 @@
 ## Hello there!
 
-- 🌱 I am currently working as a Technical Consultant at Daintta. Daintta specialises in cybersecurity, AI data intelligence, and communications security.
-- 🔭 In my spare time I like to build FOSS. I am currently learning and experimenting with Rust concurrency and async techniques.
-- 🧪 In my latest project I recreated DOOM on my watch with EspruinoJS. [[DOOM - Watch App Explorer]](https://hwixley.github.io/BangleApps/?q=doom)
+I am a Technical Consulting Manager based in London, with primary expertise in Backend Engineering, Dev(Sec)Ops, and Data Science.
+
+- 🌱 I am currently pursuing an MSc in Financial Technology at Imperial College London.
+- 🔭 In my spare time, I explore emerging developments in AI, cybersecurity, and software engineering, experimenting with cutting-edge technologies and stacks such as Rust.
+- 🧪 My latest project explores customisable LLM and RAG architectures, building flexible and modular AI systems.
